@@ -1,6 +1,6 @@
 # Script to download images from Google Drive and resize them
 
-## Prerequisutes
+## Prerequisites
 
 This script uses ImageMagick to resize images
 
