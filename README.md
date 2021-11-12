@@ -1,5 +1,11 @@
 # Script to download images from Google Drive and resize them
 
+## Prerequisutes
+
+This script uses ImageMagick to resize images
+
+`sudo apt-get install imagemagick`
+
 ## Usage
 
 ### Download
